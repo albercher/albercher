@@ -8,7 +8,7 @@
 
 ---
 #### About me 
-- I'm a full stack developer, but front end has my heart.
+- I'm a full stack developer.
 - I'm located in Raleigh, NC.
 - I look forward to continuing to learn.
 
