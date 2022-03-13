@@ -38,11 +38,11 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
 
 
-
-<!-- #### A couple of my favorite projects to date
+---
+#### A couple of my favorite projects to date
 <a href="https://github.com/albercher/wordle-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albercher&repo=wordle-clone" />
 </a>
 <a href="https://github.com/albercher/buck-it">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albercher&repo=buck-it" />
-</a> -->
+</a>
