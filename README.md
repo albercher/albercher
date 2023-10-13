@@ -9,7 +9,7 @@
 ---
 #### About me 
 - I'm a full stack developer.
-- I'm located in Raleigh, NC.
+- I'm located in Madison, WI.
 - I look forward to continuing to learn.
 
 <br />
